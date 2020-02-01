@@ -1,0 +1,11 @@
+table {
+	border-collapse:collapse;
+}
+
+td {
+	background-color: rgb(88, 13, 110);
+	border: 3px solid rgb(247, 248, 248);
+	font-size:80px;
+	color:#ffffff;
+	border-radius: 10px 10px 10px 10px;
+}
